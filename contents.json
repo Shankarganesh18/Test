@@ -1,0 +1,278 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.CupInc.lovestickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+
+    {
+      "identifier": "1",
+      "name": " 💕 pack 1️⃣",
+      "publisher": "Cup Inc",
+      "username": "WAStickerApps",
+      "date": "01-10-2023",
+      "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"ichaaibi48@gmail.com",
+      "publisher_website": "",
+      "animated_sticker_pack":true,
+      "privacy_policy_website": "https://privacy.blogspot.com/",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕","🙂"]
+
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕","🙂"]
+
+        }
+      ]
+    },
+
+
+
+
+
+    {
+      "identifier": "2",
+      "name": " 💕 pack 2️⃣",
+      "publisher": "Cup Inc",
+      "username": "WAStickerApps",
+      "date": "01-10-2023",
+      "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "animated_sticker_pack":true,
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕","🙂"]
+
+        }
+      ]
+    },
+
+
+
+    {
+      "identifier": "3",
+      "name": " 💕 pack 3️⃣",
+      "publisher": "Cup Inc",
+      "username": "WAStickerApps",
+      "date": "01-10-2023",
+      "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "animated_sticker_pack":true,
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+
+
+
+    {
+      "identifier": "4",
+      "name": " 💕 pack 4️⃣ ",
+      "publisher": "Cup Inc",
+      "username": "WAStickerApps",
+      "date": "01-10-2023",
+      "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "animated_sticker_pack":true,
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕","🙂"]
+
+        }
+      ]
+    },
+
+
+
+
+    {
+      "identifier": "5",
+      "name": " 💕 pack 5️⃣",
+      "publisher": "Cup Inc",
+      "username": "WAStickerApps",
+      "date": "01-10-2023",
+      "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "animated_sticker_pack":true,
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕","🙂"]
+
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": " 💕 pack 6️⃣",
+      "publisher": "Cup Inc",
+      "username": "WAStickerApps",
+      "date": "01-10-2023",
+      "tray_image_file": "tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"",
+      "publisher_website": "",
+      "animated_sticker_pack":true,
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["☕","🙂"]
+
+           }
+      ]
+    }
+
+
+  ]
+}
+
